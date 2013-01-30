@@ -2,7 +2,7 @@ Add syntax highlighting for your Cucumber feature files in Notepad++
 ====================================================================
 
 If you write your specifications/tests with Cucumber in the Notepad++ editor,
-then adding syntax highlighting for your feature files to your favourite editor is a must.
+then adding syntax highlighting for feature files to your favourite editor is a must.
 
 With the XML file provided here, Notepad++ will emphasize feature file elements such as:
 @tags, \#comments, keywords like Scenario, Given, When, Then..
